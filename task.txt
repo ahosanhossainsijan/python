@@ -1,0 +1,48 @@
+#Task 1
+
+number= int(input("Enter a number:"))
+print(number)
+
+#Task 2
+
+fnumber= int(input("First number:"))
+snumber= int(input("Second number:"))
+print("Sum = ",fnumber+snumber)
+print("Product = ",fnumber*snumber)
+print("Difference = ",fnumber-snumber)
+
+#Task 3
+
+fnumber1= float(input("First number:"))
+snumber1= float(input("Second number:"))
+print("Sum = ",fnumber1+snumber1)
+print("Product = ",fnumber1*snumber1)
+print("Difference = ",fnumber1-snumber1)
+
+#Task 4
+
+base= float(input("Base = "))
+height= float(input("Height = "))
+print("Area = ",.5*base*height)
+
+#Task 5
+
+print("Enter 5 number:")
+a= float(input())
+b= float(input())
+c= float(input())
+d= float(input())
+e= float(input())
+print("Average = ",(a+b+c+d+e)/5)
+
+#Task 6
+
+fname= input("First Name :")
+lname= input("Last Name :")
+print(lname,fname)
+
+#Task 7
+
+name= input("Name :")
+month= input("Month :")
+print(name,"was born in",month)
